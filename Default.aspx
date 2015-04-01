@@ -5,11 +5,10 @@
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
 
-
-
-
 <script>
+    function myfunction() {
 
+    }
 </script>
     <h2>
         Welcome to ASP.NET!

@@ -4,6 +4,13 @@
 <asp:Content ID="HeaderContent" runat="server" ContentPlaceHolderID="HeadContent">
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
+
+
+
+
+<script>
+
+</script>
     <h2>
         Welcome to ASP.NET!
         <h1>HELLOOOOOO!!!!!</h1>
